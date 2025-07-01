@@ -25,7 +25,7 @@ ___
 ##### For the latest release, click [here](https://github.com/XENXIAOKAWAII/Hentoid_V1BETA_OFC/releases/tag/beta-1.0).
 
 ##### Don't forget to check the [FAQ](https://github.com/avluis/Hentoid/wiki/FAQ) if you have any issue
-##### Visit our [Discord Server](https://discord.gg/QEZ3qk9) to chat with other users, read the latest announcements, get dev updates, app support or hang out with the development team.
+##### Visit our [Discord Server](https://discord.gg/K52Sn7hV) to chat with other users, read the latest announcements, get dev updates, app support or hang out with the development team.
 ___
 ###### [Help us](https://github.com/XENXIAOKAWAII/Hentoid/wiki/Contributing) shape `Hentoid` into the best H-Manga App for you.
 
